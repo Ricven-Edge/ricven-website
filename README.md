@@ -1,9 +1,9 @@
-# Ricven Edge Website
+# Rigven Edge Website
 
-The official GitHub Pages website for **Ricven Edge** and its digital products.
+The official GitHub Pages website for **Rigven Edge** and its digital products.
 
 ## Company
-- Brand: Ricven Edge
+- Brand: Rigven Edge
 - Website: https://ricven-edge.github.io/ricven-website/
 - Contact: ricvenstudios@proton.me
 
