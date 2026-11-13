@@ -28,4 +28,3 @@ The official GitHub Pages website for **Ricven Edge** and its digital products.
 GitHub Pages publishes the site from the `main` branch and the repository root (`/(root)`). Changes should be developed and reviewed on a working branch before they are merged into `main`.
 
 The product screenshot areas and download sections are intentional placeholders. Add approved product images and real release links when they are available; do not publish placeholder download URLs.
-
